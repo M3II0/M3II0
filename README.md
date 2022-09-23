@@ -13,7 +13,7 @@ Hi, my name is Adam and I do programming in my spare time. At the end of this ye
 - Eventer/Developer on KastrolCraft.cz
 - Developer team on BasicLand.cz
 - Developer on GlowSite.cz
-- Devloper on Survival-Games.cz
+- Developer on Survival-Games.cz
 
 # Where will you find me?
 - Owner of Fade Project
