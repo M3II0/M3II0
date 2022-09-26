@@ -10,10 +10,12 @@ Hi, my name is Adam and I do programming in my spare time. At the end of this ye
 - Developer team on BasicLand.cz
 - Developer on GlowSite.cz
 - Developer on Survival-Games.cz
+- Developer on Qplay.cz
 
 # Where will you find me?
 - Owner of Fade Project
 - Developer group named "DevTec"
+- Developer team on Qplay.cz
 
 # Skills
 - Development Spigot plugins (Java)
