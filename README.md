@@ -34,3 +34,7 @@ Hi, my name is Adam and I do programming in my spare time. At the end of this ye
 </p>
 
 <p align="center">If you have any questions, don't hesitate to contact me using the contact details provided. Thanks for reading... Have a nice rest of the day!</p>
+<h1 align="center">Overall statistics</h1>
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=M3II0&show_icons=true&theme=gotham" alt="github stats" width="100%"/>
+</p>
