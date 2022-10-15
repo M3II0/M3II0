@@ -21,6 +21,7 @@
  Are you interested in contacting me? Use the contacts listed below the text...
 </p>
 
+<h5 align="center">*Note: I ask for a payment for the work, which we will agree on in advance*</h4>
 <p align="center">
  <a href="https://www.instagram.com/m_3_i_i_0/">
    <img src="./Contacts/Instagram.png" width="12"> Instagram
