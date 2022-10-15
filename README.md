@@ -20,17 +20,18 @@
  I probably have the most experience in Java, where I create plugins for Spigot using Bukkit & Spigot API. I then have an overview in C# and C where I mainly created desktop applications using Windows Forms. I am also able to program a fully functional dedicated Discord bot as required.
  Are you interested in contacting me? Use the contacts listed below the text...
 </p>
+
 <p align="center">
  <a href="https://www.instagram.com/m_3_i_i_0/">
-   <img src="./Contacts/Instagram.png" width="70">
- </a>
+   <img src="./Contacts/Instagram.png" width="12"> Instagram
+ </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="mailto: mellomainmail@gmail.com">
-   <img src="./Contacts/Email.png" width="70">
- </a>
+   <img src="./Contacts/Email.png" width="12"> Email
+ </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://discord.com/users/718022945737539635/">
-   <img src="./Contacts/Discord.png" width="70">
- </a>
+   <img src="./Contacts/Discord.png" width="12"> Discord
+ </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://github.com/M3II0">
-   <img src="./Contacts/GitHub.png" width="70">
+   <img src="./Contacts/GitHub.png" width="12"> Discord
  </a>
 </p>
