@@ -14,7 +14,7 @@
 
 <h1 align="center">Welcome on my profile</h1>
 <p>
- <img src="./profile/bitmoji.png" align="left" width="200">
+ <img src="./Profile/bitmoji.png" align="left" width="200">
  Hello, my name is M3II0 and welcome to my profile. I don't know how you got here, but I'll be happy if you read the entire README.md to the end.
  In my free time, I do programming, mainly in C#, C and Java. I already have quite a lot of functional codes and I have been on quite a few minecraft projects in Czechoslovakia. I will list SurvivalGames, Qplay, BasicLand and Glowsite for example, but there are more.
 </p>
