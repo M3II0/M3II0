@@ -21,13 +21,13 @@
  Are you interested in contacting me? Use the contacts listed below the text...
 </p>
 <p align="center">
- <a href="https://www.instagram.com/m_3_i_i_0/" style="padding-right: 55px;">
+ <a href="https://www.instagram.com/m_3_i_i_0/">
    <img src="./Contacts/Instagram.png" width="70">
  </a>
- <a href="mailto: mellomainmail@gmail.com" style="padding-right: 55px;">
+ <a href="mailto: mellomainmail@gmail.com">
    <img src="./Contacts/Email.png" width="70">
  </a>
- <a href="https://discord.com/users/718022945737539635/" style="padding-right: 55px;">
+ <a href="https://discord.com/users/718022945737539635/">
    <img src="./Contacts/Discord.png" width="70">
  </a>
  <a href="https://github.com/M3II0">
