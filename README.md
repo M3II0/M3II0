@@ -7,8 +7,8 @@
 - Are you interested in this project? Click and you will be redirected to the GitHub page of the project...
 
 <a href="https://github.com/M3II0/FadeProject">
- <p align="right">
-  <img src="./FadeProjectRedirect/Banner.png" width="150">
+ <p align="center">
+  <img src="./FadeProjectRedirect/Banner.png" width="13"> Cick to be redirected
  </p>
 </a>
 
