@@ -17,4 +17,6 @@
  <img src="./Profile/bitmoji.png" align="left" width="200">
  Hello, my name is M3II0 and welcome to my profile. I don't know how you got here, but I'll be happy if you read the entire README.md to the end.
  In my free time, I do programming, mainly in C#, C and Java. I already have quite a lot of functional codes and I have been on quite a few minecraft projects in Czechoslovakia. I will list SurvivalGames, Qplay, BasicLand and Glowsite for example, but there are more.
+ I probably have the most experience in Java, where I create plugins for Spigot using Bukkit & Spigot API. I then have an overview in C# and C where I mainly created desktop applications using Windows Forms. I am also able to program a fully functional dedicated Discord bot as required.
+ Are you interested in contacting me? Use the contacts listed below the text...
 </p>
