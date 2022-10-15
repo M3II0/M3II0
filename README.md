@@ -12,8 +12,8 @@
  </p>
 </a>
 
-
-
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 <h1 align="center">Welcome on my profile</h1>
 <p align="left">
@@ -42,8 +42,8 @@
 </p>
 <hr>
 
-
-
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 <p>
 </p>
