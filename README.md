@@ -8,7 +8,7 @@
 
 <a href="https://github.com/M3II0/FadeProject">
  <p align="center">
-  <img src="./FadeProjectRedirect/Banner.png" width="13"> Cick to be redirected
+  <img src="./FadeProjectRedirect/Banner.png" width="12"> Cick to be redirected
  </p>
 </a>
 
