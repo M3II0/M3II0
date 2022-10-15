@@ -20,3 +20,17 @@
  I probably have the most experience in Java, where I create plugins for Spigot using Bukkit & Spigot API. I then have an overview in C# and C where I mainly created desktop applications using Windows Forms. I am also able to program a fully functional dedicated Discord bot as required.
  Are you interested in contacting me? Use the contacts listed below the text...
 </p>
+<p align="center">
+ <a href="https://www.instagram.com/m_3_i_i_0/" style="padding-right: 55px;">
+   <img src="./Contacts/Instagram.png" width="70">
+ </a>
+ <a href="mailto: mellomainmail@gmail.com" style="padding-right: 55px;">
+   <img src="./Contacts/Email.png" width="70">
+ </a>
+ <a href="https://discord.com/users/718022945737539635/" style="padding-right: 55px;">
+   <img src="./Contacts/Discord.png" width="70">
+ </a>
+ <a href="https://github.com/M3II0">
+   <img src="./Contacts/GitHub.png" width="70">
+ </a>
+</p>
