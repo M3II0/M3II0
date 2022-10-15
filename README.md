@@ -45,5 +45,14 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-<p>
+<h1 align="center">TheDevTec group</h1>
+<hr>
+<p align="center">
+ <img src="./DevTec/logo.png" width="50" align="right">
+ <a href="https://github.com/TheDevTec">
+  Click on the text to be redirected to the group I belong to...
+ </a>
+ <br>
+ The group develops Spigot plugins
 </p>
+<hr>
