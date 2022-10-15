@@ -32,6 +32,6 @@
    <img src="./Contacts/Discord.png" width="12"> Discord
  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://github.com/M3II0">
-   <img src="./Contacts/GitHub.png" width="12"> Discord
+   <img src="./Contacts/GitHub.png" width="12"> GitHub
  </a>
 </p>
