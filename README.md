@@ -45,14 +45,40 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-<h1 align="center">TheDevTec group</h1>
+<h1 align="center">Redirects</h1>
 <hr>
-<p align="center">
- <img src="./DevTec/logo.png" width="50" align="right">
- <a href="https://github.com/TheDevTec">
-  Click on the text to be redirected to the group I belong to...
- </a>
- <br>
- The group develops Spigot plugins
-</p>
+ <p align="center">
+  <a href="https://github.com/TheDevTec">
+   Click on the text to be redirected to the group I belong to...
+  </a>
+  <br>
+  The group develops Spigot plugins
+ </p>
+<hr>
+<hr>
+ <p align="center">
+  <a href="https://www.instagram.com/m_3_i_i_0/">
+   Do You want to learn something new? Follow me on Instagram...
+  </a>
+  <br>
+  I always give some advice or tips there
+ </p>
+<hr>
+<hr>
+ <p align="center">
+  <a href="https://github.com/M3II0?tab=repositories">
+   Want to see my work? Check my repositories...
+  </a>
+  <br>
+  I commit the most important codes to repositories on GitHub
+ </p>
+<hr>
+<hr>
+ <p align="center">
+  <a href="https://github.com/M3II0/FadeAPI">
+   Help with programming Bukkit/Spigot plugins? Try FadeAPI...
+  </a>
+  <br>
+  Advanced API for plugin creation
+ </p>
 <hr>
