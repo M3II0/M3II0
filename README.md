@@ -1,20 +1,3 @@
-<h1 align="center">Finding something new?</h1>
-
-- If you are open to new things and like programming, you might be interested in my new project called Fade Project.
-- The project is intended for all developers who want to participate.
-- We offer a stable community network for developers, better communication between them and open options
-- In the future, we plan to open up new possibilities for developers and, if interested, help them with cooperation.
-- Are you interested in this project? Click and you will be redirected to the GitHub page of the project...
-
-<a href="https://github.com/M3II0/FadeProject">
- <p align="center">
-  <img src="./FadeProjectRedirect/Banner.png" width="12"> Cick to be redirected
- </p>
-</a>
-
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-
 <h1 align="center">Welcome on my profile</h1>
 <p align="left">
  <img src="./Profile/bitmoji.png" align="left" width="200">
@@ -40,45 +23,4 @@
    <img src="./Contacts/GitHub.png" width="12"> GitHub
  </a>
 </p>
-<hr>
-
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-
-<h1 align="center">Redirects</h1>
-<hr>
- <p align="center">
-  <a href="https://github.com/TheDevTec">
-   Click on the text to be redirected to the group I belong to...
-  </a>
-  <br>
-  The group develops Spigot plugins
- </p>
-<hr>
-<hr>
- <p align="center">
-  <a href="https://www.instagram.com/m_3_i_i_0/">
-   Do You want to learn something new? Follow me on Instagram...
-  </a>
-  <br>
-  I always give some advice or tips there
- </p>
-<hr>
-<hr>
- <p align="center">
-  <a href="https://github.com/M3II0?tab=repositories">
-   Want to see my work? Check my repositories...
-  </a>
-  <br>
-  I commit the most important codes to repositories on GitHub
- </p>
-<hr>
-<hr>
- <p align="center">
-  <a href="https://github.com/M3II0/FadeAPI">
-   Help with programming Bukkit/Spigot plugins? Try FadeAPI...
-  </a>
-  <br>
-  Advanced API for plugin creation
- </p>
 <hr>
