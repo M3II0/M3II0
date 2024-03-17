@@ -20,8 +20,10 @@ Hi, I'm M3II0 and I do programs in Java and Graphics. I love music! I'm 18.
 - Rich experience with Minecraft servers (Vanilla, Spigot or mods)
 - I can help you with creating a modpack (Minecraft)
 
-# My discord server
-[Click here to join!](https://discord.com/invite/Ms7uAAAtcT)
+# Links
+- Discord server | [Click here to join!](https://discord.com/invite/Ms7uAAAtcT/)
+- Custom plugin order | [Click here for more!](https://www.spigotmc.org/threads/640362/)
+- Graphics order (Banners, logos & gifs) | Contact me on Discord (.m3ii0)
 
 # Some of my SpigotMC/BBB projects
 Most of the time I worked on private networks, but I can put here some public resources of mine
